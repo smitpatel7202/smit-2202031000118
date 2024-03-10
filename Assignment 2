@@ -1,1 +1,5888 @@
+THIS IS HTML CODE  :::::  AND CSS CODE STARTING FROM 1262nd LINE
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-4">
+      <div class="desktop-4-child"></div>
+      <div class="desktop-4-item"></div>
+      <div class="desktop-4-inner"></div>
+      <header class="frame-group-company">
+        <div class="frame-group-company-child"></div>
+        <div class="frame-group-safety-help">
+          <div class="frame-group-safety-help-child"></div>
+          <div class="e-n-product-login-signup">
+            <div class="earn-frame-frame-earn">
+              <h2 class="uber4">Uber</h2>
+            </div>
+            <div class="setting-cities-view-frame">
+              <div class="rectangle-parent5">
+                <div class="frame-child8"></div>
+                <div class="company3">company</div>
+              </div>
+              <div class="rectangle-parent6">
+                <div class="frame-child9"></div>
+                <div class="safety2">safety</div>
+              </div>
+              <div class="rectangle-parent7">
+                <div class="frame-child10"></div>
+                <div class="help1">Help</div>
+              </div>
+            </div>
+          </div>
+          <div class="set-policies-help-ensure-compl">
+            <div class="rectangle-parent8">
+              <div class="frame-child11"></div>
+              <div class="en1">EN</div>
+            </div>
+            <div class="rectangle-parent9">
+              <div class="frame-child12"></div>
+              <div class="product1">product</div>
+            </div>
+            <button class="rectangle-parent10">
+              <div class="frame-child13"></div>
+              <div class="login1">login</div>
+            </button>
+            <div class="rectangle-parent11">
+              <div class="frame-child14"></div>
+              <div class="signup1">signup</div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <section class="learnmoreabout-drivingand-deli">
+        <div class="getinthedriversseatandgetpaid">
+          <div class="driverontheplatformwiththelarg">
+            <div class="driverontheplatformwiththelarg-child"></div>
+            <div class="earn-frame-frame-earn-earn-fra">
+              <div class="earn-frame-frame-eat-frame-ear">
+                <div class="earn-frame-frame-earn-earn-fra1">
+                  <div class="earn7">Earn</div>
+                </div>
+                <div class="uber-visit-help-center-company">
+                  <div class="ride-text">
+                    <div class="ride2">Ride</div>
+                  </div>
+                  <div class="frame-groups"></div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra2">
+                  <div class="eat2">Eat</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra3">
+                  <div class="earn8">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra4">
+                  <div class="earn9">Earn</div>
+                  <div class="earn10">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra5">
+                  <div class="earn11">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra6">
+                  <div class="earn12">Earn</div>
+                </div>
+                <div class="earn13">Earn</div>
+              </div>
+            </div>
+            <img
+              class="frame-groups-icon"
+              loading="lazy"
+              alt=""
+              src="./public/vector-21.svg"
+            />
+          </div>
+          <div class="main-background">
+            <div class="city-image-frames">
+              <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+              <div class="city-image-frames1">
+                <div class="city-image-frames-child"></div>
+                <div class="city-image-frames2">
+                  <h1 class="get-in-the1">
+                    Get in the driver’s seat and get paid
+                  </h1>
+                  <div class="driver-on-the1">
+                    Driver on the platform with the largest network of active
+                    riders
+                  </div>
+                </div>
+                <div class="city-image-frames3">
+                  <div class="city-image-frames4">
+                    <div class="city-image-frames5">
+                      <div class="city-image-frames6">
+                        <div class="city-image-frames7"></div>
+                        <div class="sign-up-to3">sign up to drive</div>
+                      </div>
+                    </div>
+                    <div class="learn-more-about1">
+                      learn more about driving and delivering
+                    </div>
+                  </div>
+                  <img
+                    class="e-n-product-login-signup1"
+                    loading="lazy"
+                    alt=""
+                    src="./public/vector-31.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="earn-frame-group">
+        <div class="setting-cities">
+          <div class="setting-cities-child"></div>
+          <div class="driver-platform">
+            <div class="get-in-car">
+              <h1 class="setting-10000-cities1">
+                setting 10,000+ cities in motion
+              </h1>
+              <div class="uber-business">
+                <h3 class="view-all-cities1">view all cities</h3>
+              </div>
+            </div>
+          </div>
+          <div class="policy-compliance">
+            <img
+              class="image-4-icon1"
+              loading="lazy"
+              alt=""
+              src="./public/image-41@2x.png"
+            />
+          </div>
+        </div>
+        <div class="customize-travel1">
+          <div class="uber-for-biz1">
+            <div class="city-selection">
+              <h1 class="uber-for-business2">uber for business</h1>
+            </div>
+            <div class="power-of-uber">
+              <h2 class="the-power-of1">
+                the power of uber in everybody business
+              </h2>
+            </div>
+            <div class="safety-commitment">
+              <img
+                class="safety-commitment-child"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-281@2x.png"
+              />
+
+              <img
+                class="safety-commitment-item"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-291@2x.png"
+              />
+
+              <img
+                class="safety-commitment-inner"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-301@2x.png"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="products-services">
+          <div class="company-info">
+            <h1 class="customize-your-travel1">
+              Customize your travel and meal programs
+            </h1>
+            <h3 class="set-your-own1">
+              Set your own policies, help ensure T&E compliance, and get full
+              visibility into every ride and meal. You can easily integrate with
+              the top expensing partners for seamless expensing without paying a
+              service fee.
+            </h3>
+          </div>
+        </div>
+      </section>
+      <section class="ride-reserve">
+        <div class="safety-message">
+          <div class="setting-cities1">
+            <div class="uber-drive">
+              <div class="our-commitment-to-container1">
+                <p class="our-commitment-to1">Our commitment to safety</p>
+                <p class="we-want-you-to-move-freely-ma1">
+                  <span
+                    >We want you to move freely, make the most of your time, and
+                    be connected to the people and places that matter most
+                    to you</span
+                  >
+                  <span class="span1">.</span>
+                </p>
+              </div>
+            </div>
+            <img
+              class="policy-compliance-icon"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-321@2x.png"
+            />
+          </div>
+          <div class="about-us3">
+            <div class="sign-up-to-drive">
+              <div class="help-center">
+                <div class="about-us-we-container1">
+                  <p class="about-us4">About us</p>
+                  <p class="we-reimagine-the1">
+                    We reimagine the way the world moves for the better
+                  </p>
+                  <p class="movement-is-what1">
+                    Movement is what we power. It’s our lifeblood. It runs
+                    through our veins. It’s what gets us out of bed each
+                    morning. 
+                  </p>
+                </div>
+              </div>
+              <div class="help-center1">
+                <div class="newsroom-get-announcements-container1">
+                  <p class="newsroom3">Newsroom</p>
+                  <p class="get-announcements-about1">
+                    Get announcements about partnerships, app updates,
+                    initiatives, and more near you and around the world.
+                  </p>
+                </div>
+              </div>
+              <div class="help-center2">
+                <div class="investor-relations-download-container1">
+                  <p class="investor-relations1">Investor relations</p>
+                  <p class="download-financial-reports1">
+                    Download financial reports, see next-quarter plans, and read
+                    about our corporate responsibility initiatives.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="learn-more">
+        <div class="customize-travel2">
+          <div class="set-policies">
+            <div class="our-commitment1">
+              <div class="sign-up-to-ride">
+                <h1 class="sign-up-to4">sign up to drive</h1>
+              </div>
+              <div class="reserve-travel">
+                <img
+                  class="airports-cities-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector-51.svg"
+                />
+              </div>
+              <div class="products-services1">
+                <h1 class="sign-up-to-container1">
+                  <p class="sign-up-to5">sign up to ride</p>
+                </h1>
+              </div>
+              <div class="diversity-inclusion">
+                <img
+                  class="help-center-contact"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector-81.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="vector-collection">
+            <img
+              class="first-vector-icon"
+              loading="lazy"
+              alt=""
+              src="./public/vector-41.svg"
+            />
+
+            <div class="second-vector">
+              <img
+                class="sign-up-ride2"
+                loading="lazy"
+                alt=""
+                src="./public/vector-7.svg"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="sign-up-drive1">
+        <div class="sign-up-drive-child"></div>
+        <div class="uber-visit-help-container1">
+          <p class="uber5">
+            <a class="uber6" href="https://www.uber.com/in/en/" target="_blank">
+              <span class="uber7">
+                <span>Uber</span>
+              </span>
+            </a>
+          </p>
+          <p class="blank-line22">
+            <a
+              class="blank-line23"
+              href="https://www.uber.com/in/en/"
+              target="_blank"
+            >
+              <span class="blank-line24">
+                <span>&nbsp;</span>
+              </span>
+            </a>
+          </p>
+          <p class="visit-help-center2">
+            <span class="visit-help-center3">Visit Help Center</span>
+          </p>
+          <p class="blank-line25">
+            <span class="blank-line26">&nbsp;</span>
+          </p>
+          <p class="blank-line27">
+            <span class="blank-line28">&nbsp;</span>
+          </p>
+          <p class="company4">
+            <span class="company5">Company</span>
+          </p>
+          <p class="about-us5">
+            <span class="about-us6">About us</span>
+          </p>
+          <p class="our-offerings2">
+            <span class="our-offerings3">Our offerings</span>
+          </p>
+          <p class="newsroom4">
+            <span class="newsroom5">Newsroom</span>
+          </p>
+          <p class="investors2">
+            <span class="investors3">Investors</span>
+          </p>
+          <p class="blog2">
+            <span class="blog3">Blog</span>
+          </p>
+          <p class="careers2">
+            <span class="careers3">Careers</span>
+          </p>
+          <p class="ai2">
+            <span class="ai3">AI</span>
+          </p>
+          <p class="gift-cards2">
+            <span class="gift-cards3">Gift cards</span>
+          </p>
+        </div>
+        <div class="products-section">
+          <div class="products-ride-drive-container1">
+            <p class="blank-line29">&nbsp;</p>
+            <p class="blank-line30">&nbsp;</p>
+            <p class="blank-line31">&nbsp;</p>
+            <p class="blank-line32">&nbsp;</p>
+            <p class="blank-line33">&nbsp;</p>
+            <p class="products1">Products</p>
+            <p class="ride3">Ride</p>
+            <p class="drive1">Drive</p>
+            <p class="deliver1">Deliver</p>
+            <p class="eat3">Eat</p>
+            <p class="uber-for-business3">Uber for Business</p>
+            <p class="uber-freight1">Uber Freight</p>
+          </div>
+        </div>
+        <div class="products-section1">
+          <div class="global-citizenship-safety-container1">
+            <p class="blank-line34">&nbsp;</p>
+            <p class="blank-line35">&nbsp;</p>
+            <p class="blank-line36">&nbsp;</p>
+            <p class="blank-line37">&nbsp;</p>
+            <p class="blank-line38">&nbsp;</p>
+            <p class="global-citizenship1">Global citizenship</p>
+            <p class="safety3">Safety</p>
+            <p class="diversity-and-inclusion1">Diversity and Inclusion</p>
+          </div>
+        </div>
+        <div class="travel-reserve-airports-container1">
+          <p class="blank-line39">&nbsp;</p>
+          <p class="blank-line40">&nbsp;</p>
+          <p class="blank-line41">&nbsp;</p>
+          <p class="blank-line42">&nbsp;</p>
+          <p class="blank-line43">&nbsp;</p>
+          <p class="travel1">Travel</p>
+          <p class="reserve1">Reserve</p>
+          <p class="airports1">Airports</p>
+          <p class="cities1">Cities</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <div class="rectangle-parent">
+        <div class="frame-child"></div>
+        <div class="rectangle-group">
+          <div class="frame-item"></div>
+          <div class="uber-parent">
+            <h2 class="uber">Uber</h2>
+            <div class="frame-parent">
+              <div class="rectangle-container">
+                <div class="frame-inner"></div>
+                <div class="company">company</div>
+              </div>
+              <div class="group-div">
+                <div class="rectangle-div"></div>
+                <div class="safety">safety</div>
+              </div>
+              <div class="rectangle-parent1">
+                <div class="frame-child1"></div>
+                <div class="help">Help</div>
+              </div>
+            </div>
+          </div>
+          <div class="frame-group">
+            <div class="rectangle-parent2">
+              <div class="frame-child2"></div>
+              <div class="en">EN</div>
+            </div>
+            <div class="rectangle-parent3">
+              <div class="frame-child3"></div>
+              <div class="product">product</div>
+            </div>
+            <button class="group-button">
+              <div class="frame-child4"></div>
+              <div class="login">login</div>
+            </button>
+            <div class="rectangle-parent4">
+              <div class="frame-child5"></div>
+              <div class="signup">signup</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="frame-container">
+        <div class="image-1-parent">
+          <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+          <header class="frame-header">
+            <div class="frame-child6"></div>
+            <div class="frame-wrapper">
+              <div class="frame-div">
+                <div class="earn-parent">
+                  <div class="earn">Earn</div>
+                  <div class="earn-text"></div>
+                </div>
+                <div class="ride-wrapper">
+                  <div class="ride">Ride</div>
+                </div>
+                <div class="eat-wrapper">
+                  <div class="eat">Eat</div>
+                </div>
+                <div class="earn-wrapper">
+                  <div class="earn1">Earn</div>
+                </div>
+                <div class="earn-group">
+                  <div class="earn2">Earn</div>
+                  <div class="earn3">Earn</div>
+                </div>
+                <div class="earn-container">
+                  <div class="earn4">Earn</div>
+                </div>
+                <div class="earn-frame">
+                  <div class="earn5">Earn</div>
+                </div>
+                <div class="earn6">Earn</div>
+              </div>
+            </div>
+            <img
+              class="driver-cities-frame"
+              loading="lazy"
+              alt=""
+              src="./public/vector-2.svg"
+            />
+          </header>
+          <div class="business-frame">
+            <div class="ride-frame">
+              <div class="ride-frame-child"></div>
+              <div class="eat-frame">
+                <h1 class="get-in-the">
+                  Get in the driver’s seat and get paid
+                </h1>
+                <div class="driver-on-the">
+                  Driver on the platform with the largest network of active
+                  riders
+                </div>
+              </div>
+              <div class="city-selection-frame">
+                <div class="learn-more-frame-parent">
+                  <div class="learn-more-frame">
+                    <div class="rectangle-shape">
+                      <div class="signup-button"></div>
+                      <div class="sign-up-to">sign up to drive</div>
+                    </div>
+                  </div>
+                  <div class="learn-more-about">
+                    learn more about driving and delivering
+                  </div>
+                </div>
+                <img
+                  class="city-list-frame"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector-3.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="company-logo-frame">
+          <div class="company-logo-frame-child"></div>
+          <div class="travel-programs-frame-wrapper">
+            <div class="travel-programs-frame">
+              <h1 class="setting-10000-cities">
+                setting 10,000+ cities in motion
+              </h1>
+              <div class="safety-information-frame">
+                <h3 class="view-all-cities">view all cities</h3>
+              </div>
+            </div>
+          </div>
+          <div class="business-frame1">
+            <img
+              class="image-4-icon"
+              loading="lazy"
+              alt=""
+              src="./public/image-4@2x.png"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="travel-programs">
+        <div class="uber-for-biz">
+          <div class="customize-travel">
+            <h1 class="uber-for-business">uber for business</h1>
+          </div>
+          <div class="cities-view">
+            <h2 class="the-power-of">
+              the power of uber in everybody business
+            </h2>
+          </div>
+          <div class="policies-frame">
+            <img
+              class="policies-frame-child"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-28@2x.png"
+            />
+
+            <img
+              class="policies-frame-item"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-29@2x.png"
+            />
+
+            <img
+              class="policies-frame-inner"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-30@2x.png"
+            />
+          </div>
+        </div>
+        <div class="customize-meals">
+          <h1 class="customize-your-travel">
+            Customize your travel and meal programs
+          </h1>
+          <h3 class="set-your-own">
+            Set your own policies, help ensure T&E compliance, and get full
+            visibility into every ride and meal. You can easily integrate with
+            the top expensing partners for seamless expensing without paying a
+            service fee.
+          </h3>
+        </div>
+      </section>
+      <section class="about-us-frame">
+        <div class="uber-for-biz-frame">
+          <div class="travel-customization">
+            <div class="our-commitment-to-container">
+              <p class="our-commitment-to">Our commitment to safety</p>
+              <p class="we-want-you-to-move-freely-ma">
+                <span
+                  >We want you to move freely, make the most of your time, and
+                  be connected to the people and places that matter most
+                  to you</span
+                >
+                <span class="span">.</span>
+              </p>
+            </div>
+            <div class="our-commitment">
+              <img
+                class="company-rectangle-icon"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-32@2x.png"
+              />
+            </div>
+          </div>
+          <div class="help-center-frame">
+            <div class="about-us-info">
+              <div class="help-center-company">
+                <div class="about-us-we-container">
+                  <p class="about-us">About us</p>
+                  <p class="we-reimagine-the">
+                    We reimagine the way the world moves for the better
+                  </p>
+                  <p class="movement-is-what">
+                    Movement is what we power. It’s our lifeblood. It runs
+                    through our veins. It’s what gets us out of bed each
+                    morning. 
+                  </p>
+                </div>
+              </div>
+              <div class="help-center-company1">
+                <div class="newsroom-get-announcements-container">
+                  <p class="newsroom">Newsroom</p>
+                  <p class="get-announcements-about">
+                    Get announcements about partnerships, app updates,
+                    initiatives, and more near you and around the world.
+                  </p>
+                </div>
+              </div>
+              <div class="investor-relations-download-container">
+                <p class="investor-relations">Investor relations</p>
+                <p class="download-financial-reports">
+                  Download financial reports, see next-quarter plans, and read
+                  about our corporate responsibility initiatives.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="sign-up-drive">
+        <div class="sign-up-ride">
+          <div class="vector">
+            <div class="sign-up">
+              <h1 class="sign-up-to1">sign up to drive</h1>
+            </div>
+            <div class="vector-inner">
+              <img
+                class="vector-icon"
+                loading="lazy"
+                alt=""
+                src="./public/vector-5.svg"
+              />
+            </div>
+            <div class="sign-up-ride1">
+              <h1 class="sign-up-to-container">
+                <p class="sign-up-to2">sign up to ride</p>
+              </h1>
+            </div>
+            <div class="vector-child">
+              <img
+                class="frame-child7"
+                loading="lazy"
+                alt=""
+                src="./public/vector-8.svg"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="uber-visit-help-center-parent">
+          <img
+            class="uber-visit-help-center"
+            loading="lazy"
+            alt=""
+            src="./public/vector-4.svg"
+          />
+
+          <div class="company-aboutus-our-offerings">
+            <img
+              class="products-icon"
+              loading="lazy"
+              alt=""
+              src="./public/vector-4.svg"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="ride-drive-deliver-eat">
+        <footer class="help-center-section"></footer>
+        <div class="uber-visit-help-container">
+          <p class="uber1">
+            <a class="uber2" href="https://www.uber.com/in/en/" target="_blank">
+              <span class="uber3">
+                <span>Uber</span>
+              </span>
+            </a>
+          </p>
+          <p class="blank-line">
+            <a
+              class="blank-line1"
+              href="https://www.uber.com/in/en/"
+              target="_blank"
+            >
+              <span class="blank-line2">
+                <span>&nbsp;</span>
+              </span>
+            </a>
+          </p>
+          <p class="visit-help-center">
+            <span class="visit-help-center1">Visit Help Center</span>
+          </p>
+          <p class="blank-line3">
+            <span class="blank-line4">&nbsp;</span>
+          </p>
+          <p class="blank-line5">
+            <span class="blank-line6">&nbsp;</span>
+          </p>
+          <p class="company1">
+            <span class="company2">Company</span>
+          </p>
+          <p class="about-us1">
+            <span class="about-us2">About us</span>
+          </p>
+          <p class="our-offerings">
+            <span class="our-offerings1">Our offerings</span>
+          </p>
+          <p class="newsroom1">
+            <span class="newsroom2">Newsroom</span>
+          </p>
+          <p class="investors">
+            <span class="investors1">Investors</span>
+          </p>
+          <p class="blog">
+            <span class="blog1">Blog</span>
+          </p>
+          <p class="careers">
+            <span class="careers1">Careers</span>
+          </p>
+          <p class="ai">
+            <span class="ai1">AI</span>
+          </p>
+          <p class="gift-cards">
+            <span class="gift-cards1">Gift cards</span>
+          </p>
+        </div>
+        <div class="global-citizenship-safety-dive">
+          <div class="products-ride-drive-container">
+            <p class="blank-line7">&nbsp;</p>
+            <p class="blank-line8">&nbsp;</p>
+            <p class="blank-line9">&nbsp;</p>
+            <p class="blank-line10">&nbsp;</p>
+            <p class="blank-line11">&nbsp;</p>
+            <p class="products">Products</p>
+            <p class="ride1">Ride</p>
+            <p class="drive">Drive</p>
+            <p class="deliver">Deliver</p>
+            <p class="eat1">Eat</p>
+            <p class="uber-for-business1">Uber for Business</p>
+            <p class="uber-freight">Uber Freight</p>
+          </div>
+        </div>
+        <div class="global-citizenship-safety-dive1">
+          <div class="global-citizenship-safety-container">
+            <p class="blank-line12">&nbsp;</p>
+            <p class="blank-line13">&nbsp;</p>
+            <p class="blank-line14">&nbsp;</p>
+            <p class="blank-line15">&nbsp;</p>
+            <p class="blank-line16">&nbsp;</p>
+            <p class="global-citizenship">Global citizenship</p>
+            <p class="safety1">Safety</p>
+            <p class="diversity-and-inclusion">Diversity and Inclusion</p>
+          </div>
+        </div>
+        <div class="travel-reserve-airports-container">
+          <p class="blank-line17">&nbsp;</p>
+          <p class="blank-line18">&nbsp;</p>
+          <p class="blank-line19">&nbsp;</p>
+          <p class="blank-line20">&nbsp;</p>
+          <p class="blank-line21">&nbsp;</p>
+          <p class="travel">Travel</p>
+          <p class="reserve">Reserve</p>
+          <p class="airports">Airports</p>
+          <p class="cities">Cities</p>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-4">
+      <div class="desktop-4-child"></div>
+      <div class="desktop-4-item"></div>
+      <div class="desktop-4-inner"></div>
+      <header class="frame-group-company">
+        <div class="frame-group-company-child"></div>
+        <div class="frame-group-safety-help">
+          <div class="frame-group-safety-help-child"></div>
+          <div class="e-n-product-login-signup">
+            <div class="earn-frame-frame-earn">
+              <h2 class="uber4">Uber</h2>
+            </div>
+            <div class="setting-cities-view-frame">
+              <div class="rectangle-parent5">
+                <div class="frame-child8"></div>
+                <div class="company3">company</div>
+              </div>
+              <div class="rectangle-parent6">
+                <div class="frame-child9"></div>
+                <div class="safety2">safety</div>
+              </div>
+              <div class="rectangle-parent7">
+                <div class="frame-child10"></div>
+                <div class="help1">Help</div>
+              </div>
+            </div>
+          </div>
+          <div class="set-policies-help-ensure-compl">
+            <div class="rectangle-parent8">
+              <div class="frame-child11"></div>
+              <div class="en1">EN</div>
+            </div>
+            <div class="rectangle-parent9">
+              <div class="frame-child12"></div>
+              <div class="product1">product</div>
+            </div>
+            <button class="rectangle-parent10">
+              <div class="frame-child13"></div>
+              <div class="login1">login</div>
+            </button>
+            <div class="rectangle-parent11">
+              <div class="frame-child14"></div>
+              <div class="signup1">signup</div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <section class="learnmoreabout-drivingand-deli">
+        <div class="getinthedriversseatandgetpaid">
+          <div class="driverontheplatformwiththelarg">
+            <div class="driverontheplatformwiththelarg-child"></div>
+            <div class="earn-frame-frame-earn-earn-fra">
+              <div class="earn-frame-frame-eat-frame-ear">
+                <div class="earn-frame-frame-earn-earn-fra1">
+                  <div class="earn7">Earn</div>
+                </div>
+                <div class="uber-visit-help-center-company">
+                  <div class="ride-text">
+                    <div class="ride2">Ride</div>
+                  </div>
+                  <div class="frame-groups"></div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra2">
+                  <div class="eat2">Eat</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra3">
+                  <div class="earn8">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra4">
+                  <div class="earn9">Earn</div>
+                  <div class="earn10">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra5">
+                  <div class="earn11">Earn</div>
+                </div>
+                <div class="earn-frame-frame-earn-earn-fra6">
+                  <div class="earn12">Earn</div>
+                </div>
+                <div class="earn13">Earn</div>
+              </div>
+            </div>
+            <img
+              class="frame-groups-icon"
+              loading="lazy"
+              alt=""
+              src="./public/vector-21.svg"
+            />
+          </div>
+          <div class="main-background">
+            <div class="city-image-frames">
+              <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+              <div class="city-image-frames1">
+                <div class="city-image-frames-child"></div>
+                <div class="city-image-frames2">
+                  <h1 class="get-in-the1">
+                    Get in the driver’s seat and get paid
+                  </h1>
+                  <div class="driver-on-the1">
+                    Driver on the platform with the largest network of active
+                    riders
+                  </div>
+                </div>
+                <div class="city-image-frames3">
+                  <div class="city-image-frames4">
+                    <div class="city-image-frames5">
+                      <div class="city-image-frames6">
+                        <div class="city-image-frames7"></div>
+                        <div class="sign-up-to3">sign up to drive</div>
+                      </div>
+                    </div>
+                    <div class="learn-more-about1">
+                      learn more about driving and delivering
+                    </div>
+                  </div>
+                  <img
+                    class="e-n-product-login-signup1"
+                    loading="lazy"
+                    alt=""
+                    src="./public/vector-31.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="earn-frame-group">
+        <div class="setting-cities">
+          <div class="setting-cities-child"></div>
+          <div class="driver-platform">
+            <div class="get-in-car">
+              <h1 class="setting-10000-cities1">
+                setting 10,000+ cities in motion
+              </h1>
+              <div class="uber-business">
+                <h3 class="view-all-cities1">view all cities</h3>
+              </div>
+            </div>
+          </div>
+          <div class="policy-compliance">
+            <img
+              class="image-4-icon1"
+              loading="lazy"
+              alt=""
+              src="./public/image-41@2x.png"
+            />
+          </div>
+        </div>
+        <div class="customize-travel1">
+          <div class="uber-for-biz1">
+            <div class="city-selection">
+              <h1 class="uber-for-business2">uber for business</h1>
+            </div>
+            <div class="power-of-uber">
+              <h2 class="the-power-of1">
+                the power of uber in everybody business
+              </h2>
+            </div>
+            <div class="safety-commitment">
+              <img
+                class="safety-commitment-child"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-281@2x.png"
+              />
+
+              <img
+                class="safety-commitment-item"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-291@2x.png"
+              />
+
+              <img
+                class="safety-commitment-inner"
+                loading="lazy"
+                alt=""
+                src="./public/rectangle-301@2x.png"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="products-services">
+          <div class="company-info">
+            <h1 class="customize-your-travel1">
+              Customize your travel and meal programs
+            </h1>
+            <h3 class="set-your-own1">
+              Set your own policies, help ensure T&E compliance, and get full
+              visibility into every ride and meal. You can easily integrate with
+              the top expensing partners for seamless expensing without paying a
+              service fee.
+            </h3>
+          </div>
+        </div>
+      </section>
+      <section class="ride-reserve">
+        <div class="safety-message">
+          <div class="setting-cities1">
+            <div class="uber-drive">
+              <div class="our-commitment-to-container1">
+                <p class="our-commitment-to1">Our commitment to safety</p>
+                <p class="we-want-you-to-move-freely-ma1">
+                  <span
+                    >We want you to move freely, make the most of your time, and
+                    be connected to the people and places that matter most
+                    to you</span
+                  >
+                  <span class="span1">.</span>
+                </p>
+              </div>
+            </div>
+            <img
+              class="policy-compliance-icon"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-321@2x.png"
+            />
+          </div>
+          <div class="about-us3">
+            <div class="sign-up-to-drive">
+              <div class="help-center">
+                <div class="about-us-we-container1">
+                  <p class="about-us4">About us</p>
+                  <p class="we-reimagine-the1">
+                    We reimagine the way the world moves for the better
+                  </p>
+                  <p class="movement-is-what1">
+                    Movement is what we power. It’s our lifeblood. It runs
+                    through our veins. It’s what gets us out of bed each
+                    morning. 
+                  </p>
+                </div>
+              </div>
+              <div class="help-center1">
+                <div class="newsroom-get-announcements-container1">
+                  <p class="newsroom3">Newsroom</p>
+                  <p class="get-announcements-about1">
+                    Get announcements about partnerships, app updates,
+                    initiatives, and more near you and around the world.
+                  </p>
+                </div>
+              </div>
+              <div class="help-center2">
+                <div class="investor-relations-download-container1">
+                  <p class="investor-relations1">Investor relations</p>
+                  <p class="download-financial-reports1">
+                    Download financial reports, see next-quarter plans, and read
+                    about our corporate responsibility initiatives.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="learn-more">
+        <div class="customize-travel2">
+          <div class="set-policies">
+            <div class="our-commitment1">
+              <div class="sign-up-to-ride">
+                <h1 class="sign-up-to4">sign up to drive</h1>
+              </div>
+              <div class="reserve-travel">
+                <img
+                  class="airports-cities-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector-51.svg"
+                />
+              </div>
+              <div class="products-services1">
+                <h1 class="sign-up-to-container1">
+                  <p class="sign-up-to5">sign up to ride</p>
+                </h1>
+              </div>
+              <div class="diversity-inclusion">
+                <img
+                  class="help-center-contact"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector-81.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="vector-collection">
+            <img
+              class="first-vector-icon"
+              loading="lazy"
+              alt=""
+              src="./public/vector-41.svg"
+            />
+
+            <div class="second-vector">
+              <img
+                class="sign-up-ride2"
+                loading="lazy"
+                alt=""
+                src="./public/vector-7.svg"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="sign-up-drive1">
+        <div class="sign-up-drive-child"></div>
+        <div class="uber-visit-help-container1">
+          <p class="uber5">
+            <a class="uber6" href="https://www.uber.com/in/en/" target="_blank">
+              <span class="uber7">
+                <span>Uber</span>
+              </span>
+            </a>
+          </p>
+          <p class="blank-line22">
+            <a
+              class="blank-line23"
+              href="https://www.uber.com/in/en/"
+              target="_blank"
+            >
+              <span class="blank-line24">
+                <span>&nbsp;</span>
+              </span>
+            </a>
+          </p>
+          <p class="visit-help-center2">
+            <span class="visit-help-center3">Visit Help Center</span>
+          </p>
+          <p class="blank-line25">
+            <span class="blank-line26">&nbsp;</span>
+          </p>
+          <p class="blank-line27">
+            <span class="blank-line28">&nbsp;</span>
+          </p>
+          <p class="company4">
+            <span class="company5">Company</span>
+          </p>
+          <p class="about-us5">
+            <span class="about-us6">About us</span>
+          </p>
+          <p class="our-offerings2">
+            <span class="our-offerings3">Our offerings</span>
+          </p>
+          <p class="newsroom4">
+            <span class="newsroom5">Newsroom</span>
+          </p>
+          <p class="investors2">
+            <span class="investors3">Investors</span>
+          </p>
+          <p class="blog2">
+            <span class="blog3">Blog</span>
+          </p>
+          <p class="careers2">
+            <span class="careers3">Careers</span>
+          </p>
+          <p class="ai2">
+            <span class="ai3">AI</span>
+          </p>
+          <p class="gift-cards2">
+            <span class="gift-cards3">Gift cards</span>
+          </p>
+        </div>
+        <div class="products-section">
+          <div class="products-ride-drive-container1">
+            <p class="blank-line29">&nbsp;</p>
+            <p class="blank-line30">&nbsp;</p>
+            <p class="blank-line31">&nbsp;</p>
+            <p class="blank-line32">&nbsp;</p>
+            <p class="blank-line33">&nbsp;</p>
+            <p class="products1">Products</p>
+            <p class="ride3">Ride</p>
+            <p class="drive1">Drive</p>
+            <p class="deliver1">Deliver</p>
+            <p class="eat3">Eat</p>
+            <p class="uber-for-business3">Uber for Business</p>
+            <p class="uber-freight1">Uber Freight</p>
+          </div>
+        </div>
+        <div class="products-section1">
+          <div class="global-citizenship-safety-container1">
+            <p class="blank-line34">&nbsp;</p>
+            <p class="blank-line35">&nbsp;</p>
+            <p class="blank-line36">&nbsp;</p>
+            <p class="blank-line37">&nbsp;</p>
+            <p class="blank-line38">&nbsp;</p>
+            <p class="global-citizenship1">Global citizenship</p>
+            <p class="safety3">Safety</p>
+            <p class="diversity-and-inclusion1">Diversity and Inclusion</p>
+          </div>
+        </div>
+        <div class="travel-reserve-airports-container1">
+          <p class="blank-line39">&nbsp;</p>
+          <p class="blank-line40">&nbsp;</p>
+          <p class="blank-line41">&nbsp;</p>
+          <p class="blank-line42">&nbsp;</p>
+          <p class="blank-line43">&nbsp;</p>
+          <p class="travel1">Travel</p>
+          <p class="reserve1">Reserve</p>
+          <p class="airports1">Airports</p>
+          <p class="cities1">Cities</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
+
+THIS IS CSS CODE  :::::
+
+.image-3-icon {
+  width: 100%;
+  height: 900px;
+  position: absolute;
+  margin: 0 !important;
+  top: 64px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child15,
+.frame-group-company-safety-hel-child {
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.frame-child15 {
+  align-self: stretch;
+  width: 1440px;
+}
+.frame-group-company-safety-hel-child {
+  height: 64px;
+  width: 1180px;
+}
+.uber8 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 2;
+}
+.earn-ride-eat-earn-earn-earn-e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.frame-child16 {
+  height: 38px;
+  width: 110px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.company6 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child17,
+.rectangle-parent13 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.frame-child17 {
+  height: 38px;
+  width: 90px;
+  position: relative;
+  display: none;
+}
+.safety4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child18,
+.rectangle-parent14 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.frame-child18 {
+  height: 38px;
+  width: 79px;
+  position: relative;
+  display: none;
+}
+.help2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent15 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.driver-platform1,
+.e-n-product-login-signup2,
+.rectangle-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.driver-platform1 {
+  margin: 0;
+  gap: 0 8px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.e-n-product-login-signup2 {
+  gap: 0 32px;
+  max-width: 100%;
+}
+.frame-child19 {
+  height: 38px;
+  width: 67px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.en2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child20,
+.rectangle-parent16 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-child20 {
+  height: 38px;
+  width: 101px;
+  position: relative;
+  display: none;
+}
+.product2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child21,
+.rectangle-parent17 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent17 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-child21 {
+  height: 38px;
+  width: 81px;
+  position: relative;
+  display: none;
+}
+.login2 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child22,
+.rectangle-parent18 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent18 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.rectangle-parent18:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.frame-child22 {
+  height: 38px;
+  width: 93px;
+  position: relative;
+  display: none;
+}
+.signup2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent19,
+.setting-citiesin-motion {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent19 {
+  flex: 1;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.setting-citiesin-motion {
+  width: 366px;
+  gap: 0 8px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+}
+.frame-group-company-safety-hel,
+.rectangle-parent12 {
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-group-company-safety-hel {
+  width: 1180px;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-4xs) var(--padding-smi)
+    var(--padding-2xs);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.rectangle-parent12 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-child23 {
+  align-self: stretch;
+  height: 121px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.earn14 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper1 {
+  width: 86px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ride4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.ride-container {
+  width: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eat4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.eat-container {
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn15 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper2 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn16,
+.earn17 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn17 {
+  color: var(--color-whitesmoke);
+}
+.earn-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.earn18 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper3 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn19 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper4 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn20 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-ride-frame-eat-fram,
+.frame-earn-frame-ride-frame-ea {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-earn-frame-ride-frame-ea {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.earn-frame-ride-frame-eat-fram {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+}
+.setting-cities2 {
+  height: 4px;
+  width: 124px;
+  position: relative;
+  background-color: var(--color-gray-700);
+  z-index: 2;
+}
+.group-company-safety-help {
+  width: 730px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-frame-icon {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.frame-background,
+.rectangle-parent20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-background {
+  height: 4px;
+}
+.rectangle-parent20 {
+  background-color: var(--color-gray-100);
+  padding: var(--padding-33xl) 0 0;
+  box-sizing: border-box;
+  gap: 48px 0;
+  z-index: 1;
+}
+.sign-up-drive-item {
+  width: 591px;
+  height: 347px;
+  position: relative;
+  background-color: var(--color-snow);
+  display: none;
+  max-width: 100%;
+}
+.driver-on-the2,
+.get-in-the2 {
+  position: relative;
+  line-height: 50px;
+  z-index: 4;
+}
+.get-in-the2 {
+  margin: 0;
+  width: 438px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.driver-on-the2 {
+  font-size: var(--font-size-base);
+}
+.learn-more-about-driving-deliv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px 0;
+  max-width: 100%;
+}
+.uber-for-business4 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 148px;
+  height: 40px;
+  z-index: 5;
+}
+.sign-up-to6 {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 0;
+  left: 8px;
+  line-height: 50px;
+  display: inline-block;
+  height: 49px;
+  z-index: 6;
+}
+.view-all-cities2 {
+  height: 49px;
+  flex: 1;
+  position: relative;
+}
+.setting-cities-motion {
+  width: 148px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.learn-more-about2 {
+  position: relative;
+  line-height: 50px;
+  color: var(--color-black);
+  z-index: 4;
+  margin-top: -9px;
+}
+.vector-arrow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-about-us-newsroom {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.sign-up-to-ride1 {
+  width: 324.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.sign-up-drive2 {
+  flex: 1;
+  background-color: var(--color-snow);
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-sm) var(--padding-25xl);
+  gap: 27px 0;
+  z-index: 3;
+}
+.aboutus-newsroom,
+.customize-travel-meal,
+.image-container,
+.sign-up-drive2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.customize-travel-meal {
+  width: 595px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-poppins);
+}
+.aboutus-newsroom,
+.image-container {
+  width: 1175px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.aboutus-newsroom {
+  width: 1318px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-302xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.customize-travel-programs-child {
+  height: 915px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  display: none;
+  max-width: 100%;
+}
+.setting-10000-cities2,
+.view-all-cities4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-family: inherit;
+  z-index: 2;
+}
+.setting-10000-cities2 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.view-all-cities4 {
+  flex: 1;
+  font-weight: 400;
+  .image-3-icon {
+  width: 100%;
+  height: 900px;
+  position: absolute;
+  margin: 0 !important;
+  top: 64px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child15,
+.frame-group-company-safety-hel-child {
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.frame-child15 {
+  align-self: stretch;
+  width: 1440px;
+}
+.frame-group-company-safety-hel-child {
+  height: 64px;
+  width: 1180px;
+}
+.uber8 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 2;
+}
+.earn-ride-eat-earn-earn-earn-e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.frame-child16 {
+  height: 38px;
+  width: 110px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.company6 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child17,
+.rectangle-parent13 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.frame-child17 {
+  height: 38px;
+  width: 90px;
+  position: relative;
+  display: none;
+}
+.safety4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child18,
+.rectangle-parent14 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.frame-child18 {
+  height: 38px;
+  width: 79px;
+  position: relative;
+  display: none;
+}
+.help2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent15 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 2;
+}
+.driver-platform1,
+.e-n-product-login-signup2,
+.rectangle-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.driver-platform1 {
+  margin: 0;
+  gap: 0 8px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.e-n-product-login-signup2 {
+  gap: 0 32px;
+  max-width: 100%;
+}
+.frame-child19 {
+  height: 38px;
+  width: 67px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.en2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child20,
+.rectangle-parent16 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-child20 {
+  height: 38px;
+  width: 101px;
+  position: relative;
+  display: none;
+}
+.product2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child21,
+.rectangle-parent17 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent17 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-child21 {
+  height: 38px;
+  width: 81px;
+  position: relative;
+  display: none;
+}
+.login2 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child22,
+.rectangle-parent18 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent18 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.rectangle-parent18:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.frame-child22 {
+  height: 38px;
+  width: 93px;
+  position: relative;
+  display: none;
+}
+.signup2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent19,
+.setting-citiesin-motion {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent19 {
+  flex: 1;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 2;
+}
+.setting-citiesin-motion {
+  width: 366px;
+  gap: 0 8px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+}
+.frame-group-company-safety-hel,
+.rectangle-parent12 {
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-group-company-safety-hel {
+  width: 1180px;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-4xs) var(--padding-smi)
+    var(--padding-2xs);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.rectangle-parent12 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-child23 {
+  align-self: stretch;
+  height: 121px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.earn14 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper1 {
+  width: 86px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ride4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.ride-container {
+  width: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eat4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.eat-container {
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn15 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper2 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn16,
+.earn17 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn17 {
+  color: var(--color-whitesmoke);
+}
+.earn-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.earn18 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper3 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn19 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper4 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn20 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-ride-frame-eat-fram,
+.frame-earn-frame-ride-frame-ea {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-earn-frame-ride-frame-ea {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.earn-frame-ride-frame-eat-fram {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+}
+.setting-cities2 {
+  height: 4px;
+  width: 124px;
+  position: relative;
+  background-color: var(--color-gray-700);
+  z-index: 2;
+}
+.group-company-safety-help {
+  width: 730px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-frame-icon {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.frame-background,
+.rectangle-parent20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-background {
+  height: 4px;
+}
+.rectangle-parent20 {
+  background-color: var(--color-gray-100);
+  padding: var(--padding-33xl) 0 0;
+  box-sizing: border-box;
+  gap: 48px 0;
+  z-index: 1;
+}
+.sign-up-drive-item {
+  width: 591px;
+  height: 347px;
+  position: relative;
+  background-color: var(--color-snow);
+  display: none;
+  max-width: 100%;
+}
+.driver-on-the2,
+.get-in-the2 {
+  position: relative;
+  line-height: 50px;
+  z-index: 4;
+}
+.get-in-the2 {
+  margin: 0;
+  width: 438px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.driver-on-the2 {
+  font-size: var(--font-size-base);
+}
+.learn-more-about-driving-deliv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px 0;
+  max-width: 100%;
+}
+.uber-for-business4 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 148px;
+  height: 40px;
+  z-index: 5;
+}
+.sign-up-to6 {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 0;
+  left: 8px;
+  line-height: 50px;
+  display: inline-block;
+  height: 49px;
+  z-index: 6;
+}
+.view-all-cities2 {
+  height: 49px;
+  flex: 1;
+  position: relative;
+}
+.setting-cities-motion {
+  width: 148px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.learn-more-about2 {
+  position: relative;
+  line-height: 50px;
+  color: var(--color-black);
+  z-index: 4;
+  margin-top: -9px;
+}
+.vector-arrow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-about-us-newsroom {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.sign-up-to-ride1 {
+  width: 324.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.sign-up-drive2 {
+  flex: 1;
+  background-color: var(--color-snow);
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-sm) var(--padding-25xl);
+  gap: 27px 0;
+  z-index: 3;
+}
+.aboutus-newsroom,
+.customize-travel-meal,
+.image-container,
+.sign-up-drive2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.customize-travel-meal {
+  width: 595px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-poppins);
+}
+.aboutus-newsroom,
+.image-container {
+  width: 1175px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.aboutus-newsroom {
+  width: 1318px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-302xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.customize-travel-programs-child {
+  height: 915px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  display: none;
+  max-width: 100%;
+}
+.setting-10000-cities2,
+.view-all-cities4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-family: inherit;
+  z-index: 2;
+}
+.setting-10000-cities2 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.view-all-cities4 {
+  flex: 1;
+  font-weight: 400;
+}
+.ai4 {
+  margin: 0;
+}
+.gift-cards5 {
+  font-size: var(--font-size-mini);
+}
+.gift-cards4 {
+  margin: 0;
+}
+.uber-visit-help-container2 {
+  height: 817px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+  font-size: var(--font-size-13xl);
+}
+.blank-line51,
+.blank-line52,
+.blank-line53,
+.blank-line54,
+.blank-line55 {
+  margin: 0;
+}
+.products2 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.deliver2,
+.drive2,
+.eat5,
+.ride5,
+.uber-for-business6,
+.uber-freight2 {
+  margin: 0;
+}
+.products-ride-drive-container2 {
+  align-self: stretch;
+  height: 817px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.products-frame {
+  width: 172px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.blank-line56,
+.blank-line57,
+.blank-line58,
+.blank-line59,
+.blank-line60 {
+  margin: 0;
+}
+.global-citizenship2 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.diversity-and-inclusion2,
+.safety5 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.global-citizenship-safety-container2 {
+  align-self: stretch;
+  height: 815px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.products-frame1 {
+  width: 173px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+}
+.blank-line61,
+.blank-line62,
+.blank-line63,
+.blank-line64 {
+  margin: 0;
+}
+.blank-line65,
+.travel2 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.airports2,
+.cities2,
+.reserve2 {
+  margin: 0;
+}
+.travel-reserve-airports-container2 {
+  height: 817px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.desktop-5,
+.reserve-vector {
+  display: flex;
+  justify-content: flex-start;
+}
+.reserve-vector {
+  align-self: stretch;
+  background-color: var(--color-gray-600);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-135xl);
+  box-sizing: border-box;
+  gap: 0 95.7px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 47px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .earn-frame-ride-frame-eat-fram {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .set-policies-ensure-t-e-compli {
+    flex: 1;
+  }
+  .image-4-icon2 {
+    align-self: stretch;
+    width: auto;
+  }
+  .travel-programs1 {
+    flex: 1;
+  }
+  .customize-travel-programs {
+    flex-wrap: wrap;
+  }
+  .about-us-newsroom-investor-rel {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-drive2 {
+    gap: 30px 0;
+  }
+  .reserve-vector {
+    flex-wrap: wrap;
+    padding-left: var(--padding-58xl);
+    padding-right: var(--padding-58xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-earn-frame-ride-frame-ea {
+    flex-wrap: wrap;
+  }
+  .aboutus-newsroom {
+    padding-bottom: var(--padding-190xl);
+    box-sizing: border-box;
+  }
+  .travel-programs1 {
+    min-width: 100%;
+  }
+  .customize-travel-programs {
+    padding-top: var(--padding-44xl);
+    padding-bottom: var(--padding-43xl);
+    box-sizing: border-box;
+  }
+  .setting-cities-in-motion {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(273px, 473px));
+  }
+  .about-us-newsroom-investor-rel {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .learn-more-vector {
+    flex-wrap: wrap;
+  }
+  .sign-up-ride3 {
+    gap: 0 37px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .driver-platform1 {
+    display: none;
+  }
+  .rectangle-parent20 {
+    gap: 24px 0;
+  }
+  .get-in-the2,
+  .setting-10000-cities2 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .set-policies-ensure-t-e-compli {
+    min-width: 100%;
+  }
+  .uber-for-business5 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .uber-for-business-frame,
+  .uber-for-business-frame1,
+  .uber-for-business-frame2 {
+    width: 100%;
+  }
+  .setting-cities-in-motion {
+    grid-template-columns: minmax(273px, 1fr);
+  }
+  .customize-your-travel2 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .sign-up-to-drive2 {
+    gap: 15px 0;
+  }
+  .about-us-frame1 {
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-container2,
+  .sign-up-to7 {
+    font-size: var(--font-size-13xl);
+    line-height: 40px;
+  }
+  .sign-up-ride3 {
+    gap: 0 18px;
+  }
+  .reserve-vector {
+    gap: 0 48px;
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .desktop-5 {
+    gap: 23px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .e-n-product-login-signup2 {
+    gap: 0 16px;
+  }
+  .setting-citiesin-motion {
+    display: none;
+  }
+  .frame-group-company-safety-hel {
+    width: 814px;
+  }
+  .get-in-the2 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .aboutus-newsroom {
+    padding-bottom: var(--padding-117xl);
+    box-sizing: border-box;
+  }
+  .setting-10000-cities2 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .view-all-cities4 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .setting-frame {
+    gap: 16px 0;
+  }
+  .customize-travel-programs {
+    padding-top: var(--padding-22xl);
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .uber-for-business5 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .the-power-of2 {
+    font-size: var(--font-size-lgi);
+    line-height: 40px;
+  }
+  .customize-your-travel2 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .set-your-own2 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .about-us-newsroom-investor-rel {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .our-commitment-to-container2 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .safety-message1,
+  .sign-up-to-ride-child {
+    min-width: 100%;
+  }
+  .about-us-we-container2 {
+    font-size: var(--font-size-base);
+  }
+  .newsroom-get-announcements-container2 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .get-in-car2 {
+    flex: 1;
+  }
+  .investor-relations-download-container2 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .about-us-frame1 {
+    padding-bottom: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-container2,
+  .sign-up-to7 {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .reserve-vector {
+    gap: 0 24px;
+  }
+}
+.frame-child,
+.frame-item {
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.frame-child {
+  align-self: stretch;
+  width: 1440px;
+}
+.frame-item {
+  height: 64px;
+  width: 1180px;
+}
+.uber {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 2;
+}
+.frame-inner {
+  height: 38px;
+  width: 110px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.company {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-container,
+.rectangle-div {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-4xs) var(--padding-xs);
+  z-index: 2;
+}
+.rectangle-div {
+  height: 38px;
+  width: 90px;
+  position: relative;
+  display: none;
+}
+.safety {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child1,
+.group-div {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.group-div {
+  width: 90px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-4xs) var(--padding-xs);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.frame-child1 {
+  height: 38px;
+  width: 79px;
+  position: relative;
+  display: none;
+}
+.help {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  width: 79px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-4xs) var(--padding-xs);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.frame-parent,
+.uber-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent {
+  flex: 1;
+  align-items: flex-start;
+  gap: 0 8px;
+  font-size: var(--font-size-sm);
+}
+.uber-parent {
+  width: 383px;
+  align-items: center;
+  gap: 0 32px;
+  max-width: 100%;
+}
+.frame-child2 {
+  height: 38px;
+  width: 67px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.en {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child3,
+.rectangle-parent2 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent2 {
+  width: 67px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-3xs) var(--padding-3xs);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.frame-child3 {
+  height: 38px;
+  width: 101px;
+  position: relative;
+  display: none;
+}
+.product {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child4,
+.rectangle-parent3 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-3xs) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-child4 {
+  height: 38px;
+  width: 81px;
+  position: relative;
+  display: none;
+}
+.login {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child5,
+.group-button {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-3xs) var(--padding-3xs);
+  width: 81px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.group-button:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.frame-child5 {
+  height: 38px;
+  width: 93px;
+  position: relative;
+  display: none;
+}
+.signup {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent4 {
+  flex: 1;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-3xs) var(--padding-3xs);
+  z-index: 2;
+}
+.frame-group {
+  width: 366px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 8px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+}
+.rectangle-group,
+.rectangle-parent {
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.rectangle-group {
+  width: 1180px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-4xs) var(--padding-smi)
+    var(--padding-2xs);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.rectangle-parent {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.frame-child6,
+.image-1-icon {
+  position: relative;
+  display: none;
+}
+.image-1-icon {
+  width: 1440px;
+  height: 900px;
+  object-fit: cover;
+  max-width: 100%;
+}
+.frame-child6 {
+  align-self: stretch;
+  height: 121px;
+  background-color: var(--color-gray-100);
+}
+.earn,
+.earn-text {
+  position: relative;
+  z-index: 2;
+}
+.earn {
+  font-weight: 500;
+}
+.earn-text {
+  align-self: stretch;
+  height: 4px;
+  background-color: var(--color-gray-700);
+}
+.earn-parent {
+  width: 132px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  gap: 48px 0;
+}
+.ride {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.ride-wrapper {
+  width: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eat {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.eat-wrapper {
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-wrapper {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn2,
+.earn3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn3 {
+  color: var(--color-whitesmoke);
+}
+.earn-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.earn4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-container {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn5 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn6 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.frame-div,
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper {
+  width: 1109px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+}
+.driver-cities-frame {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.frame-header {
+  width: 1155px;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-33xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.ride-frame-child {
+  width: 591px;
+  height: 347px;
+  position: relative;
+  background-color: var(--color-snow);
+  display: none;
+  max-width: 100%;
+}
+.driver-on-the,
+.get-in-the {
+  position: relative;
+  line-height: 50px;
+  z-index: 4;
+}
+.get-in-the {
+  margin: 0;
+  width: 438px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.driver-on-the {
+  font-size: var(--font-size-base);
+}
+.eat-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px 0;
+  max-width: 100%;
+}
+.signup-button {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gray-400);
+  z-index: 5;
+}
+.sign-up-to {
+  position: relative;
+  line-height: 50px;
+  z-index: 6;
+  margin-left: -140px;
+}
+.learn-more-frame,
+.rectangle-shape {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rectangle-shape {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+}
+.learn-more-frame {
+  width: 148px;
+  justify-content: center;
+}
+.learn-more-about {
+  position: relative;
+  line-height: 50px;
+  color: var(--color-black);
+  z-index: 4;
+  margin-top: -9px;
+}
+.learn-more-frame-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.city-list-frame {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.city-selection-frame,
+.ride-frame {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.city-selection-frame {
+  width: 325px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 6px 0;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.ride-frame {
+  width: 591px;
+  background-color: var(--color-snow);
+  padding: var(--padding-3xl) var(--padding-sm) var(--padding-25xl);
+  box-sizing: border-box;
+  gap: 27px 0;
+  z-index: 3;
+}
+.business-frame,
+.image-1-parent,
+.ride-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.business-frame {
+  width: 1151px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.image-1-parent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-28xl) var(--padding-2xl) 385px var(--padding-xl);
+  box-sizing: border-box;
+  background-image: url(./public/image-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.company-logo-frame-child {
+  height: 915px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  display: none;
+  max-width: 100%;
+}
+.setting-10000-cities,
+.view-all-cities {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-family: inherit;
+  z-index: 2;
+}
+.setting-10000-cities {
+  width: 438px;
+  font-weight: 600;
+  display: inline-block;
+}
+.view-all-cities {
+  flex: 1;
+  font-weight: 400;
+}
+.safety-information-frame {
+  width: 210px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.travel-programs-frame,
+.travel-programs-frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.travel-programs-frame {
+  gap: 32px 0;
+}
+.travel-programs-frame-wrapper {
+  padding: var(--padding-32xl) 0 0;
+  box-sizing: border-box;
+  min-width: 438px;
+  max-width: 100%;
+}
+.image-4-icon {
+  width: 702px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 103%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.business-frame1,
+.company-logo-frame,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.business-frame1 {
+  height: 722px;
+  width: 682px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  min-width: 682px;
+}
+.company-logo-frame,
+.frame-container {
+  align-self: stretch;
+}
+.company-logo-frame {
+  background-color: var(--color-lavenderblush);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-78xl) var(--padding-xl) var(--padding-77xl)
+    var(--padding-13xl);
+  row-gap: 20px;
+  z-index: 1;
+  margin-top: -17px;
+}
+.frame-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-24xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.uber-for-business {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.customize-travel {
+  width: 482px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-power-of {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.cities-view {
+  width: 649px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.policies-frame-child,
+.policies-frame-inner,
+.policies-frame-item {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 268px;
+}
+.policies-frame,
+.uber-for-biz {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.policies-frame {
+  display: grid;
+  flex-direction: row;
+  gap: 0 20px;
+  grid-template-columns: repeat(3, minmax(273px, 1fr));
+}
+.uber-for-biz {
+  display: flex;
+  flex-direction: column;
+  gap: 14px 0;
+}
+.customize-your-travel,
+.set-your-own {
+  margin: 0;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.customize-your-travel {
+  width: 949px;
+  font-size: inherit;
+  max-width: 100%;
+}
+.set-your-own {
+  width: 1096px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+  z-index: 1;
+}
+.customize-meals,
+.travel-programs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px 0;
+  max-width: 100%;
+  color: var(--color-gray-300);
+}
+.travel-programs {
+  width: 1172px;
+  padding: 0 var(--padding-xl) 120px;
+  box-sizing: border-box;
+  gap: 37px 0;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-24xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.our-commitment-to {
+  margin: 0;
+}
+.span {
+  font-size: var(--font-size-xl);
+}
+.we-want-you-to-move-freely-ma {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.our-commitment-to-container {
+  height: 312px;
+  width: 556px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.company-rectangle-icon {
+  align-self: stretch;
+  height: 313px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.our-commitment,
+.travel-customization {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.our-commitment {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-mid);
+  min-width: 361px;
+}
+.travel-customization {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  padding: 0 var(--padding-mid) 0 0;
+  gap: 0 13px;
+}
+.about-us {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 44px;
+}
+.movement-is-what,
+.we-reimagine-the {
+  margin: 0;
+  line-height: 38px;
+}
+.about-us-we-container {
+  width: 370px;
+  height: 276px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.help-center-company {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  min-width: 240px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.newsroom {
+  margin: 0;
+}
+.get-announcements-about {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.newsroom-get-announcements-container {
+  width: 364px;
+  height: 269px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.help-center-company1 {
+  flex: 0.9838;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 240px;
+  max-width: 100%;
+}
+.investor-relations {
+  margin: 0;
+}
+.download-financial-reports {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.investor-relations-download-container {
+  height: 268px;
+  width: 364px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.about-us-info {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 14px;
+  max-width: 100%;
+}
+.help-center-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+}
+.about-us-frame,
+.help-center-frame,
+.uber-for-biz-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.uber-for-biz-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 61px 0;
+}
+.about-us-frame {
+  width: 1166px;
+  flex-direction: row;
+  padding: 0 0 138px var(--padding-5xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.sign-up-to1 {
+  margin: 0;
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sign-up {
+  width: 364px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vector-icon {
+  width: 34px;
+  height: 22px;
+  position: relative;
+}
+.vector-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) 15px 0 0;
+}
+.sign-up-to2 {
+  margin: 0;
+}
+.sign-up-to-container {
+  margin: 0;
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sign-up-ride1 {
+  width: 391px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 27px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child7 {
+  width: 34px;
+  height: 22px;
+  position: relative;
+}
+.sign-up-ride,
+.vector,
+.vector-child {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-child {
+  flex-direction: column;
+  padding: var(--padding-base) 0 0;
+}
+.sign-up-ride,
+.vector {
+  flex-direction: row;
+  max-width: 100%;
+}
+.vector {
+  gap: 0 74px;
+}
+.sign-up-ride {
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.products-icon,
+.uber-visit-help-center {
+  height: 2px;
+  width: 557px;
+  position: relative;
+}
+.uber-visit-help-center {
+  max-width: 100%;
+}
+.products-icon {
+  max-width: calc(100% - 0px);
+}
+.company-aboutus-our-offerings {
+  align-self: stretch;
+  height: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.sign-up-drive,
+.uber-visit-help-center-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.uber-visit-help-center-parent {
+  align-self: stretch;
+  height: 0;
+}
+.sign-up-drive {
+  width: 1180px;
+  padding: 0 var(--padding-xl) 65px;
+  box-sizing: border-box;
+  gap: 12px 0;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}
+.help-center-section {
+  height: 813px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+}
+.uber3 {
+  text-decoration: underline;
+}
+.uber2 {
+  color: inherit;
+}
+.uber1 {
+  margin: 0;
+}
+.blank-line2 {
+  text-decoration: underline;
+}
+.blank-line1 {
+  color: inherit;
+}
+.blank-line {
+  margin: 0;
+  font-size: var(--font-size-xs);
+}
+.visit-help-center1 {
+  font-size: var(--font-size-xl);
+}
+.visit-help-center {
+  margin: 0;
+}
+.blank-line4 {
+  font-size: var(--font-size-xs);
+}
+.blank-line3 {
+  margin: 0;
+}
+.blank-line6 {
+  font-size: var(--font-size-xs);
+}
+.blank-line5 {
+  margin: 0;
+}
+.company2 {
+  font-size: var(--font-size-base);
+}
+.company1 {
+  margin: 0;
+}
+.about-us2 {
+  font-size: var(--font-size-mini);
+}
+.about-us1 {
+  margin: 0;
+}
+.our-offerings1 {
+  font-size: var(--font-size-mini);
+}
+.our-offerings {
+  margin: 0;
+}
+.newsroom2 {
+  font-size: var(--font-size-mini);
+}
+.newsroom1 {
+  margin: 0;
+}
+.investors1 {
+  font-size: var(--font-size-mini);
+}
+.investors {
+  margin: 0;
+}
+.blog1 {
+  font-size: var(--font-size-mini);
+}
+.blog {
+  margin: 0;
+}
+.careers1 {
+  font-size: var(--font-size-mini);
+}
+.careers {
+  margin: 0;
+}
+.ai1 {
+  font-size: var(--font-size-mini);
+}
+.ai {
+  margin: 0;
+}
+.gift-cards1 {
+  font-size: var(--font-size-mini);
+}
+.gift-cards {
+  margin: 0;
+}
+.uber-visit-help-container {
+  height: 817px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+  font-size: var(--font-size-13xl);
+}
+.blank-line10,
+.blank-line11,
+.blank-line7,
+.blank-line8,
+.blank-line9 {
+  margin: 0;
+}
+.products {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.deliver,
+.drive,
+.eat1,
+.ride1,
+.uber-for-business1,
+.uber-freight {
+  margin: 0;
+}
+.products-ride-drive-container {
+  align-self: stretch;
+  height: 837px;
+  position: relative;
+   line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.global-citizenship-safety-dive {
+  width: 172px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.blank-line12,
+.blank-line13,
+.blank-line14,
+.blank-line15,
+.blank-line16 {
+  margin: 0;
+}
+.global-citizenship {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.diversity-and-inclusion,
+.safety1 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.global-citizenship-safety-container {
+  align-self: stretch;
+  height: 837px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.global-citizenship-safety-dive1 {
+  width: 173px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+}
+.blank-line17,
+.blank-line18,
+.blank-line19,
+.blank-line20 {
+  margin: 0;
+}
+.blank-line21,
+.travel {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.airports,
+.cities,
+.reserve {
+  margin: 0;
+}
+.travel-reserve-airports-container {
+  height: 837px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.desktop-1,
+.ride-drive-deliver-eat {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--color-white);
+}
+.ride-drive-deliver-eat {
+  margin-top: -22px;
+  margin-left: 20px;
+  margin-bottom: -22px;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-135xl);
+  gap: 0 95.67px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-poppins);
+}
+.desktop-1 {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: normal;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1225px) {
+  .rectangle-group {
+    width: calc(100% - 40px);
+  }
+  .travel-programs-frame-wrapper {
+    flex: 1;
+  }
+  .image-4-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .business-frame1 {
+    flex: 1;
+  }
+  .company-logo-frame {
+    flex-wrap: wrap;
+  }
+  .uber-for-biz-frame {
+    gap: 30px 0;
+  }
+  .vector {
+    flex-wrap: wrap;
+  }
+  .ride-drive-deliver-eat {
+    flex-wrap: wrap;
+    padding-left: var(--padding-58xl);
+    padding-right: var(--padding-58xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-div {
+    flex-wrap: wrap;
+  }
+  .image-1-parent {
+    padding-top: var(--padding-12xl);
+    padding-bottom: 250px;
+    box-sizing: border-box;
+  }
+  .business-frame1 {
+    min-width: 100%;
+  }
+  .company-logo-frame {
+    padding-bottom: var(--padding-43xl);
+    box-sizing: border-box;
+  }
+  .policies-frame {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(273px, 473px));
+  }
+  .help-center-company,
+  .help-center-company1 {
+    flex: 1;
+  }
+  .about-us-info {
+    flex-wrap: wrap;
+  }
+  .about-us-frame {
+    padding-bottom: 90px;
+    box-sizing: border-box;
+  }
+  .vector {
+    gap: 0 37px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent {
+    display: none;
+  }
+  .uber-parent {
+    width: 88px;
+  }
+  .get-in-the,
+  .setting-10000-cities {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .travel-programs-frame-wrapper {
+    min-width: 100%;
+  }
+  .uber-for-business {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .policies-frame-child,
+  .policies-frame-inner,
+  .policies-frame-item {
+    width: 100%;
+  }
+  .policies-frame {
+    grid-template-columns: minmax(273px, 1fr);
+  }
+  .customize-your-travel {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .travel-programs {
+    gap: 18px 0;
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+  .uber-for-biz-frame {
+    gap: 15px 0;
+  }
+  .sign-up-to-container,
+  .sign-up-to1 {
+    font-size: var(--font-size-13xl);
+    line-height: 40px;
+  }
+  .vector {
+    gap: 0 18px;
+  }
+  .ride-drive-deliver-eat {
+    gap: 0 48px;
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .uber {
+    font-size: var(--font-size-lgi);
+  }
+  .uber-parent {
+    gap: 0 16px;
+  }
+  .frame-group {
+    display: none;
+  }
+  .rectangle-group {
+    width: 814px;
+  }
+  .get-in-the {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .image-1-parent {
+    padding-top: var(--padding-xl);
+    padding-bottom: 162px;
+    box-sizing: border-box;
+  }
+  .setting-10000-cities {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .view-all-cities {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .travel-programs-frame {
+    gap: 16px 0;
+  }
+  .company-logo-frame {
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .uber-for-business {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .the-power-of {
+    font-size: var(--font-size-lgi);
+    line-height: 40px;
+  }
+  .customize-your-travel {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .our-commitment-to-container,
+  .set-your-own {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .our-commitment {
+    min-width: 100%;
+  }
+  .about-us-we-container {
+    font-size: var(--font-size-base);
+  }
+  .investor-relations-download-container,
+  .newsroom-get-announcements-container {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .about-us-frame {
+    padding-bottom: var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-container,
+  .sign-up-to1 {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .ride-drive-deliver-eat {
+    gap: 0 24px;
+  }
+}
+.desktop-4-child,
+.desktop-4-inner,
+.desktop-4-item {
+  width: 110px;
+  height: 38px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-dimgray);
+  display: none;
+}
+.frame-group-company-child,
+.frame-group-safety-help-child {
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.frame-group-company-child {
+  align-self: stretch;
+  width: 1440px;
+}
+.frame-group-safety-help-child {
+  height: 64px;
+  width: 1180px;
+}
+.uber4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 5;
+}
+.earn-frame-frame-earn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.frame-child8 {
+  height: 38px;
+  width: 110px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.company3 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child9,
+.rectangle-parent5 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 5;
+}
+.frame-child9 {
+  height: 38px;
+  width: 90px;
+  position: relative;
+  display: none;
+}
+.safety2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child10,
+.rectangle-parent6 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 5;
+}
+.frame-child10 {
+  height: 38px;
+  width: 79px;
+  position: relative;
+  display: none;
+}
+.help1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent7 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-4xs) var(--padding-5xl) var(--padding-xs);
+  z-index: 5;
+}
+.e-n-product-login-signup,
+.rectangle-parent7,
+.setting-cities-view-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.setting-cities-view-frame {
+  gap: 0 8px;
+  font-size: var(--font-size-sm);
+}
+.e-n-product-login-signup {
+  gap: 0 32px;
+  max-width: 100%;
+}
+.frame-child11 {
+  height: 38px;
+  width: 67px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  display: none;
+}
+.en1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child12,
+.rectangle-parent8 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 5;
+}
+.frame-child12 {
+  height: 38px;
+  width: 101px;
+  position: relative;
+  display: none;
+}
+.product1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child13,
+.rectangle-parent9 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent9 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 5;
+}
+.frame-child13 {
+  height: 38px;
+  width: 81px;
+  position: relative;
+  display: none;
+}
+.login1 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child14,
+.rectangle-parent10 {
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+}
+.rectangle-parent10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 5;
+}
+.rectangle-parent10:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.frame-child14 {
+  height: 38px;
+  width: 93px;
+  position: relative;
+  display: none;
+}
+.signup1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent11,
+.set-policies-help-ensure-compl {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent11 {
+  flex: 1;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-black);
+  padding: var(--padding-2xs) var(--padding-5xl) var(--padding-3xs);
+  z-index: 5;
+}
+.set-policies-help-ensure-compl {
+  width: 366px;
+  gap: 0 8px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+}
+.frame-group-company,
+.frame-group-safety-help {
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-group-safety-help {
+  width: 1180px;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-4xs) var(--padding-smi)
+    var(--padding-2xs);
+  gap: var(--gap-xl);
+  z-index: 4;
+}
+.frame-group-company {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.driverontheplatformwiththelarg-child {
+  align-self: stretch;
+  height: 121px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.earn7 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+}
+.ride2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.ride-text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-28xl);
+}
+.frame-groups {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  background-color: var(--color-gray-700);
+  z-index: 2;
+}
+.uber-visit-help-center-company {
+  width: 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  gap: 48px 0;
+}
+.eat2 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra2 {
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn8 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra3 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn10,
+.earn9 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn10 {
+  color: var(--color-whitesmoke);
+}
+.earn-frame-frame-earn-earn-fra4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.earn11 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra5 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn12 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra6 {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earn13 {
+  position: relative;
+  font-weight: 500;
+  z-index: 2;
+}
+.earn-frame-frame-earn-earn-fra,
+.earn-frame-frame-eat-frame-ear {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.earn-frame-frame-eat-frame-ear {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.earn-frame-frame-earn-earn-fra {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl);
+  box-sizing: border-box;
+}
+.frame-groups-icon {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.driverontheplatformwiththelarg {
+  align-self: stretch;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-33xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.image-2-icon {
+  height: 836px;
+  width: 1441px;
+  position: absolute;
+  margin: 0 !important;
+  right: -706px;
+  bottom: -321px;
+  object-fit: cover;
+}
+.city-image-frames-child {
+  width: 591px;
+  height: 347px;
+  position: relative;
+  background-color: var(--color-snow);
+  display: none;
+  max-width: 100%;
+}
+.driver-on-the1,
+.get-in-the1 {
+  position: relative;
+  line-height: 50px;
+  z-index: 4;
+}
+.get-in-the1 {
+  margin: 0;
+  width: 438px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.driver-on-the1 {
+  font-size: var(--font-size-base);
+}
+.city-image-frames2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px 0;
+  max-width: 100%;
+}
+.city-image-frames7 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 148px;
+  height: 40px;
+  z-index: 5;
+}
+.sign-up-to3 {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 0;
+  left: 8px;
+  line-height: 50px;
+  display: inline-block;
+  height: 49px;
+  z-index: 6;
+}
+.city-image-frames6 {
+  height: 49px;
+  flex: 1;
+  position: relative;
+}
+.city-image-frames5 {
+  width: 148px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.learn-more-about1 {
+  position: relative;
+  line-height: 50px;
+  color: var(--color-black);
+  z-index: 4;
+  margin-top: -9px;
+}
+.city-image-frames4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.e-n-product-login-signup1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.city-image-frames,
+.city-image-frames1,
+.city-image-frames3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.city-image-frames3 {
+  width: 324.5px;
+  flex-direction: column;
+  gap: 6px 0;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.city-image-frames,
+.city-image-frames1 {
+  flex: 1;
+}
+.city-image-frames1 {
+  background-color: var(--color-snow);
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-sm) var(--padding-25xl);
+  box-sizing: border-box;
+  gap: 27px 0;
+  z-index: 3;
+}
+.city-image-frames {
+  flex-direction: row;
+  position: relative;
+}
+.getinthedriversseatandgetpaid,
+.learnmoreabout-drivingand-deli,
+.main-background {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.main-background {
+  width: 595px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-poppins);
+}
+.getinthedriversseatandgetpaid,
+.learnmoreabout-drivingand-deli {
+  width: 1175px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.learnmoreabout-drivingand-deli {
+  width: 1318px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-302xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.setting-cities-child {
+  height: 915px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  display: none;
+  max-width: 100%;
+}
+.setting-10000-cities1,
+.view-all-cities1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-family: inherit;
+  z-index: 1;
+}
+.setting-10000-cities1 {
+    align-self: stretch;
+  font-weight: 600;
+}
+.view-all-cities1 {
+  flex: 1;
+  font-weight: 400;
+}
+.driver-platform,
+.get-in-car,
+.uber-business {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.uber-business {
+  width: 210px;
+  flex-direction: row;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.driver-platform,
+.get-in-car {
+  flex-direction: column;
+}
+.get-in-car {
+  align-self: stretch;
+  gap: 32px 0;
+}
+.driver-platform {
+  width: 438px;
+  padding: var(--padding-32xl) 0 0;
+  box-sizing: border-box;
+  min-width: 438px;
+  max-width: 100%;
+}
+.image-4-icon1 {
+  width: 702px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 103%;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.policy-compliance,
+.setting-cities {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.policy-compliance {
+  height: 722px;
+  width: 682px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  min-width: 682px;
+}
+.setting-cities {
+  align-self: stretch;
+  background-color: var(--color-lavenderblush);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-78xl) var(--padding-xl) var(--padding-77xl)
+    var(--padding-13xl);
+  row-gap: 20px;
+}
+.uber-for-business2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.city-selection {
+  width: 482px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-power-of1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.power-of-uber {
+  width: 649px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.safety-commitment-child,
+.safety-commitment-inner,
+.safety-commitment-item {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 268px;
+}
+.safety-commitment {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 20px;
+  max-width: 100%;
+  grid-template-columns: repeat(3, minmax(273px, 1fr));
+}
+.customize-travel1,
+.uber-for-biz1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.uber-for-biz1 {
+  width: 1132px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 14.5px 0;
+}
+.customize-travel1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 29.800000000000185px;
+  box-sizing: border-box;
+}
+.customize-your-travel1,
+.set-your-own1 {
+  margin: 0;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.customize-your-travel1 {
+  width: 949px;
+  font-size: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.set-your-own1 {
+  align-self: stretch;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+  z-index: 1;
+}
+.company-info {
+  width: 1096px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px 0;
+  max-width: 100%;
+}
+.earn-frame-group,
+.products-services {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.products-services {
+  width: 1404px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  color: var(--color-gray-300);
+}
+.earn-frame-group {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 72.59999999999991px;
+  gap: 8px 0;
+  text-align: left;
+  font-size: var(--font-size-24xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.our-commitment-to1 {
+  margin: 0;
+}
+.span1 {
+  font-size: var(--font-size-xl);
+}
+.we-want-you-to-move-freely-ma1 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.our-commitment-to-container1 {
+  align-self: stretch;
+  height: 312px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.policy-compliance-icon,
+.uber-drive {
+  flex: 1;
+  max-width: 100%;
+  min-width: 361px;
+}
+.uber-drive {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+}
+.policy-compliance-icon {
+  height: 313px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.setting-cities1 {
+  width: 1125px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 13px;
+  max-width: 100%;
+}
+.about-us4 {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 44px;
+}
+.movement-is-what1,
+.we-reimagine-the1 {
+  margin: 0;
+  line-height: 38px;
+}
+.about-us-we-container1 {
+  align-self: stretch;
+  height: 276px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.help-center {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  min-width: 277px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.newsroom3 {
+  margin: 0;
+}
+.get-announcements-about1 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.newsroom-get-announcements-container1 {
+  align-self: stretch;
+  height: 269px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.help-center1 {
+  flex: 0.9838;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 277px;
+  max-width: 100%;
+}
+.investor-relations1 {
+  margin: 0;
+}
+.download-financial-reports1 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.investor-relations-download-container1 {
+  align-self: stretch;
+  height: 268px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.help-center2,
+.sign-up-to-drive {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.help-center2 {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 273px;
+}
+.sign-up-to-drive {
+  flex-direction: row;
+  gap: 0 14px;
+}
+.about-us3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-3xs);
+  font-size: var(--font-size-21xl);
+}
+.about-us3,
+.ride-reserve,
+.safety-message {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.safety-message {
+  width: 1162px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 61px 0;
+}
+.ride-reserve {
+  width: 1299px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-72xl) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.sign-up-to4 {
+  margin: 0;
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sign-up-to-ride {
+  width: 364px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.airports-cities-icon {
+  width: 34px;
+  height: 22px;
+  position: relative;
+}
+.reserve-travel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) var(--padding-base-5) 0 0;
+}
+.sign-up-to5 {
+  margin: 0;
+}
+.sign-up-to-container1 {
+  margin: 0;
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.products-services1 {
+  width: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.help-center-contact {
+  width: 34px;
+  height: 22px;
+  position: relative;
+}
+.diversity-inclusion,
+.our-commitment1,
+.set-policies {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diversity-inclusion {
+  flex-direction: column;
+  padding: var(--padding-base) 0 0;
+}
+.our-commitment1,
+.set-policies {
+  flex-direction: row;
+  max-width: 100%;
+}
+.our-commitment1 {
+  flex-wrap: wrap;
+  gap: 0 73.5px;
+}
+.set-policies {
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.first-vector-icon,
+.sign-up-ride2 {
+  height: 2px;
+  width: 557px;
+  position: relative;
+}
+.first-vector-icon {
+  max-width: 100%;
+}
+.sign-up-ride2 {
+  max-width: calc(100% - 0px);
+}
+.second-vector {
+  align-self: stretch;
+  height: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.customize-travel2,
+.learn-more,
+.vector-collection {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.vector-collection {
+  align-self: stretch;
+  height: 0;
+  flex-direction: column;
+}
+.customize-travel2,
+.learn-more {
+  box-sizing: border-box;
+}
+.customize-travel2 {
+  width: 1160px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 12px 0;
+}
+.learn-more {
+  width: 1310px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-lg) var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}
+.sign-up-drive-child {
+  align-self: stretch;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-600);
+  display: none;
+  max-width: 100%;
+}
+.uber7 {
+  text-decoration: underline;
+}
+.uber6 {
+  color: inherit;
+}
+.uber5 {
+  margin: 0;
+}
+.blank-line24 {
+  text-decoration: underline;
+}
+.blank-line23 {
+  color: inherit;
+}
+.blank-line22 {
+  margin: 0;
+  font-size: var(--font-size-xs);
+}
+.visit-help-center3 {
+  font-size: var(--font-size-xl);
+}
+.visit-help-center2 {
+  margin: 0;
+}
+.blank-line26 {
+  font-size: var(--font-size-xs);
+}
+.blank-line25 {
+  margin: 0;
+}
+.blank-line28 {
+  font-size: var(--font-size-xs);
+}
+.blank-line27 {
+  margin: 0;
+}
+.company5 {
+  font-size: var(--font-size-base);
+}
+.company4 {
+  margin: 0;
+}
+.about-us6 {
+  font-size: var(--font-size-mini);
+}
+.about-us5 {
+  margin: 0;
+}
+.our-offerings3 {
+  font-size: var(--font-size-mini);
+}
+.our-offerings2 {
+  margin: 0;
+}
+.newsroom5 {
+  font-size: var(--font-size-mini);
+}
+.newsroom4 {
+  margin: 0;
+}
+.investors3 {
+  font-size: var(--font-size-mini);
+}
+.investors2 {
+  margin: 0;
+}
+.blog3 {
+  font-size: var(--font-size-mini);
+}
+.blog2 {
+  margin: 0;
+}
+.careers3 {
+  font-size: var(--font-size-mini);
+}
+.careers2 {
+  margin: 0;
+}
+.ai3 {
+  font-size: var(--font-size-mini);
+}
+.ai2 {
+  margin: 0;
+}
+.gift-cards3 {
+  font-size: var(--font-size-mini);
+}
+.gift-cards2 {
+  margin: 0;
+}
+.uber-visit-help-container1 {
+  height: 817px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+  font-size: var(--font-size-13xl);
+}
+.blank-line29,
+.blank-line30,
+.blank-line31,
+.blank-line32,
+.blank-line33 {
+  margin: 0;
+}
+.products1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.deliver1,
+.drive1,
+.eat3,
+.ride3,
+.uber-for-business3,
+.uber-freight1 {
+  margin: 0;
+}
+.products-ride-drive-container1 {
+  align-self: stretch;
+  height: 817px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.products-section {
+  width: 172px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.blank-line34,
+.blank-line35,
+.blank-line36,
+.blank-line37,
+.blank-line38 {
+  margin: 0;
+}
+.global-citizenship1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.diversity-and-inclusion1,
+.safety3 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.global-citizenship-safety-container1 {
+  align-self: stretch;
+  height: 815px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.products-section1 {
+  width: 173px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+}
+.blank-line39,
+.blank-line40,
+.blank-line41,
+.blank-line42 {
+  margin: 0;
+}
+.blank-line43,
+.travel1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.airports1,
+.cities1,
+.reserve1 {
+  margin: 0;
+}
+.travel-reserve-airports-container1 {
+  height: 817px;
+  width: 172px;
+  position: relative;
+  line-height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.desktop-4,
+.sign-up-drive1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.sign-up-drive1 {
+  align-self: stretch;
+  background-color: var(--color-gray-600);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-135xl);
+  box-sizing: border-box;
+  gap: 0 95.7px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 47px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .earn-frame-frame-earn-earn-fra {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .driver-platform {
+    flex: 1;
+  }
+  .image-4-icon1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .policy-compliance {
+    flex: 1;
+  }
+  .setting-cities {
+    flex-wrap: wrap;
+  }
+  .earn-frame-group {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .safety-message {
+    gap: 30px 0;
+  }
+  .sign-up-drive1 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-58xl);
+    padding-right: var(--padding-58xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .earn-frame-frame-eat-frame-ear {
+    flex-wrap: wrap;
+  }
+  .learnmoreabout-drivingand-deli {
+    padding-bottom: var(--padding-190xl);
+    box-sizing: border-box;
+  }
+  .policy-compliance {
+    min-width: 100%;
+  }
+  .setting-cities {
+    padding-top: var(--padding-44xl);
+    padding-bottom: var(--padding-43xl);
+    box-sizing: border-box;
+  }
+  .safety-commitment {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(273px, 473px));
+  }
+  .earn-frame-group {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-drive {
+    flex-wrap: wrap;
+  }
+  .our-commitment1 {
+    gap: 0 37px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .setting-cities-view-frame {
+    display: none;
+  }
+  .get-in-the1,
+  .setting-10000-cities1 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .driver-platform {
+    min-width: 100%;
+  }
+  .uber-for-business2 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .safety-commitment-child,
+  .safety-commitment-inner,
+  .safety-commitment-item {
+    width: 100%;
+  }
+  .safety-commitment {
+    grid-template-columns: minmax(273px, 1fr);
+  }
+  .customize-your-travel1 {
+    font-size: var(--font-size-15xl);
+    line-height: 40px;
+  }
+  .safety-message {
+    gap: 15px 0;
+  }
+  .ride-reserve {
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-container1,
+  .sign-up-to4 {
+    font-size: var(--font-size-13xl);
+    line-height: 40px;
+  }
+  .our-commitment1 {
+    gap: 0 18px;
+  }
+  .sign-up-drive1 {
+    gap: 0 48px;
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: 23px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .e-n-product-login-signup {
+    gap: 0 16px;
+  }
+  .set-policies-help-ensure-compl {
+    display: none;
+  }
+  .frame-group-safety-help {
+    width: 814px;
+  }
+  .get-in-the1 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .learnmoreabout-drivingand-deli {
+    padding-bottom: var(--padding-117xl);
+    box-sizing: border-box;
+  }
+  .setting-10000-cities1 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .view-all-cities1 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .get-in-car {
+    gap: 16px 0;
+  }
+  .setting-cities {
+    padding-top: var(--padding-22xl);
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .uber-for-business2 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .the-power-of1 {
+    font-size: var(--font-size-lgi);
+    line-height: 40px;
+  }
+  .customize-your-travel1 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+  }
+  .set-your-own1 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .earn-frame-group {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .our-commitment-to-container1 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .policy-compliance-icon,
+  .uber-drive {
+    min-width: 100%;
+  }
+  .about-us-we-container1 {
+    font-size: var(--font-size-base);
+  }
+  .newsroom-get-announcements-container1 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .help-center1 {
+    flex: 1;
+  }
+  .investor-relations-download-container1 {
+    font-size: var(--font-size-base);
+    line-height: 40px;
+  }
+  .ride-reserve {
+    padding-bottom: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .sign-up-to-container1,
+  .sign-up-to4 {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .sign-up-drive1 {
+    gap: 0 24px;
+  }
+}
